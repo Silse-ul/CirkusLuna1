@@ -10,12 +10,4 @@ public class Main
 
 
 
-public class Artist
-{
-    public int Id {get; set;}
-}
 
-public class Worker
-{
-    public int Id {get; set;}
-}
