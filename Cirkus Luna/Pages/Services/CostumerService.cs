@@ -12,7 +12,6 @@ public class CostumerService : ICostumerService
     }
     public List<Costumer> GetAllArtists()
     {
-        var allCostumer = _costumerRepository.GetAll();
-        return allCostumer;
+        return _costumerRepository.GetAll();
     }
 }

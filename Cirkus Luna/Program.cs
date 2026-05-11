@@ -1,8 +1,13 @@
+using Cirkus_Luna.Pages;
+using Cirkus_Luna.Pages.Shared;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
-
+builder.Services.AddSingelton<IEmployeeRepository, EmployeeRepository>();
+builder.Services.AddSingleton<IArtistRepository, ArtistRepository>();
+builder.Services.AddSingelton<ICostumerRepository, CostumerRepository>();
 
 // Configure the HTTP request pipeline.
 object app;

@@ -15,8 +15,7 @@ public class EmployeeService : IEmployeeService
 
     public List<Employee> GetAllEmployees()
     {
-        var allEmployee = _employeeRepository.GetAll();
-        List<Employee> allemployees;
+        return _employeeRepository.GetAll();
     }
 }
 
