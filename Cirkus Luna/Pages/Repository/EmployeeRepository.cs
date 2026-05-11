@@ -1,3 +1,4 @@
+using Cirkus_Luna.Pages.model;
 using Cirkus_Luna.Pages.Shared;
 
 namespace Cirkus_Luna.Pages;
