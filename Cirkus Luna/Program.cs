@@ -8,6 +8,7 @@ builder.Services.AddRazorPages();
 builder.Services.AddSingelton<IEmployeeRepository, EmployeeRepository>();
 builder.Services.AddSingleton<IArtistRepository, ArtistRepository>();
 builder.Services.AddSingelton<ICostumerRepository, CostumerRepository>();
+var app = builder.Build();
 
 // Configure the HTTP request pipeline.
 object app;
