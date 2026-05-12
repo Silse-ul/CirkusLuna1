@@ -7,7 +7,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddRazorPages();
 builder.Services.AdSingelton<IEmployeeRepository, EmployeeRepository>();
 builder.Services.AddSingleton<IArtistRepository, ArtistRepository>();
-builder.Services.AddAntiforgery();
+builder.Services.AddSingelton<ICostumerRepository, CostumerRepository>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
