@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LunaLibrary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1cad7f5cd6db796bd0b0cf9ff90bcace9102e13a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd4d8ba2e170c47ff82b9ac7f4d40a0876085569")]
 [assembly: System.Reflection.AssemblyProductAttribute("LunaLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LunaLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

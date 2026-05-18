@@ -6,4 +6,10 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Compile Update="Repository\PerformanceRepository.cs">
+        <DependentUpon>IPerformanceRepository.cs</DependentUpon>
+      </Compile>
+    </ItemGroup>
+
 </Project>
