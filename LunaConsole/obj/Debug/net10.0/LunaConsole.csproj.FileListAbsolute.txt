@@ -1,0 +1,15 @@
+/Users/sillajohanne/Desktop/Rider programming/Cirkus Luna/LunaConsole/bin/Debug/net10.0/LunaConsole
+/Users/sillajohanne/Desktop/Rider programming/Cirkus Luna/LunaConsole/bin/Debug/net10.0/LunaConsole.deps.json
+/Users/sillajohanne/Desktop/Rider programming/Cirkus Luna/LunaConsole/bin/Debug/net10.0/LunaConsole.runtimeconfig.json
+/Users/sillajohanne/Desktop/Rider programming/Cirkus Luna/LunaConsole/bin/Debug/net10.0/LunaConsole.dll
+/Users/sillajohanne/Desktop/Rider programming/Cirkus Luna/LunaConsole/bin/Debug/net10.0/LunaConsole.pdb
+/Users/sillajohanne/Desktop/Rider programming/Cirkus Luna/LunaConsole/obj/Debug/net10.0/LunaConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sillajohanne/Desktop/Rider programming/Cirkus Luna/LunaConsole/obj/Debug/net10.0/LunaConsole.AssemblyInfoInputs.cache
+/Users/sillajohanne/Desktop/Rider programming/Cirkus Luna/LunaConsole/obj/Debug/net10.0/LunaConsole.AssemblyInfo.cs
+/Users/sillajohanne/Desktop/Rider programming/Cirkus Luna/LunaConsole/obj/Debug/net10.0/LunaConsole.csproj.CoreCompileInputs.cache
+/Users/sillajohanne/Desktop/Rider programming/Cirkus Luna/LunaConsole/obj/Debug/net10.0/LunaConsole.sourcelink.json
+/Users/sillajohanne/Desktop/Rider programming/Cirkus Luna/LunaConsole/obj/Debug/net10.0/LunaConsole.dll
+/Users/sillajohanne/Desktop/Rider programming/Cirkus Luna/LunaConsole/obj/Debug/net10.0/refint/LunaConsole.dll
+/Users/sillajohanne/Desktop/Rider programming/Cirkus Luna/LunaConsole/obj/Debug/net10.0/LunaConsole.pdb
+/Users/sillajohanne/Desktop/Rider programming/Cirkus Luna/LunaConsole/obj/Debug/net10.0/LunaConsole.genruntimeconfig.cache
+/Users/sillajohanne/Desktop/Rider programming/Cirkus Luna/LunaConsole/obj/Debug/net10.0/ref/LunaConsole.dll

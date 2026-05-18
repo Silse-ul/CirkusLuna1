@@ -1,0 +1,12 @@
+/Users/sillajohanne/Desktop/Rider programming/Cirkus Luna/LunaLibrary/bin/Debug/net10.0/LunaLibrary.deps.json
+/Users/sillajohanne/Desktop/Rider programming/Cirkus Luna/LunaLibrary/bin/Debug/net10.0/LunaLibrary.dll
+/Users/sillajohanne/Desktop/Rider programming/Cirkus Luna/LunaLibrary/bin/Debug/net10.0/LunaLibrary.pdb
+/Users/sillajohanne/Desktop/Rider programming/Cirkus Luna/LunaLibrary/obj/Debug/net10.0/LunaLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sillajohanne/Desktop/Rider programming/Cirkus Luna/LunaLibrary/obj/Debug/net10.0/LunaLibrary.AssemblyInfoInputs.cache
+/Users/sillajohanne/Desktop/Rider programming/Cirkus Luna/LunaLibrary/obj/Debug/net10.0/LunaLibrary.AssemblyInfo.cs
+/Users/sillajohanne/Desktop/Rider programming/Cirkus Luna/LunaLibrary/obj/Debug/net10.0/LunaLibrary.csproj.CoreCompileInputs.cache
+/Users/sillajohanne/Desktop/Rider programming/Cirkus Luna/LunaLibrary/obj/Debug/net10.0/LunaLibrary.sourcelink.json
+/Users/sillajohanne/Desktop/Rider programming/Cirkus Luna/LunaLibrary/obj/Debug/net10.0/LunaLibrary.dll
+/Users/sillajohanne/Desktop/Rider programming/Cirkus Luna/LunaLibrary/obj/Debug/net10.0/refint/LunaLibrary.dll
+/Users/sillajohanne/Desktop/Rider programming/Cirkus Luna/LunaLibrary/obj/Debug/net10.0/LunaLibrary.pdb
+/Users/sillajohanne/Desktop/Rider programming/Cirkus Luna/LunaLibrary/obj/Debug/net10.0/ref/LunaLibrary.dll
