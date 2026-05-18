@@ -5,14 +5,12 @@ namespace Cirkus_Luna.Pages.Services;
 
 public class EmployeeService : IEmployeeService
 {
-    private IEmployeeRepository? _employeeRepository;
+    private IEmployeeRepository _employeeRepository;
 
-    public EmployeeService(ICostumerRepository costumerRepository)
+    public EmployeeService(IEmployeeRepository employeeRepository)
     {
-        IEmployeeRepository? employeeRepository = null;
         _employeeRepository = employeeRepository;
     }
-
     public List<Employee> GetAllEmployees()
     {
         return _employeeRepository.GetAll();

@@ -10,7 +10,7 @@ public class CostumerService : ICostumerService
     {
         _costumerRepository = costumerRepository;
     }
-    public List<Costumer> GetAllArtists()
+    public List<Costumer> GetAllCostumers()
     {
         return _costumerRepository.GetAll();
     }

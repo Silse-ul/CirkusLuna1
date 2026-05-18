@@ -8,15 +8,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Compile Update="Pages\Repository\IArtistRepository.cs">
-        <DependentUpon>ArtistRepository.cs</DependentUpon>
-      </Compile>
-      <Compile Update="Pages\Repository\ICostumerRepository.cs">
-        <DependentUpon>CostumerRepository.cs</DependentUpon>
-      </Compile>
-      <Compile Update="Pages\Repository\IEmployeeRepository.cs">
-        <DependentUpon>EmployeeRepository.cs</DependentUpon>
-      </Compile>
+      <ProjectReference Include="..\LunaLibrary\LunaLibrary.csproj" />
     </ItemGroup>
 
 </Project>

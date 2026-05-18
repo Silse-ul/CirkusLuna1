@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cirkus Luna", "Cirkus Luna\Cirkus Luna.csproj", "{6820F6ED-59C5-459C-BAB7-0E0B34CB368E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LunaLibrary", "LunaLibrary\LunaLibrary.csproj", "{2EF4BD5C-9E81-48F6-B9BC-68E7C3847B2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LunaConsole", "LunaConsole\LunaConsole.csproj", "{947F72A8-5BEB-4DC2-9FCD-6318270A5BA9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{6820F6ED-59C5-459C-BAB7-0E0B34CB368E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6820F6ED-59C5-459C-BAB7-0E0B34CB368E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6820F6ED-59C5-459C-BAB7-0E0B34CB368E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EF4BD5C-9E81-48F6-B9BC-68E7C3847B2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EF4BD5C-9E81-48F6-B9BC-68E7C3847B2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EF4BD5C-9E81-48F6-B9BC-68E7C3847B2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EF4BD5C-9E81-48F6-B9BC-68E7C3847B2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{947F72A8-5BEB-4DC2-9FCD-6318270A5BA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{947F72A8-5BEB-4DC2-9FCD-6318270A5BA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{947F72A8-5BEB-4DC2-9FCD-6318270A5BA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{947F72A8-5BEB-4DC2-9FCD-6318270A5BA9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
