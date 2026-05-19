@@ -1,6 +1,6 @@
 namespace Cirkus_Luna.Pages.model;
 
-public enum TicketType {kids = 130 , adult = 200 , vip = 300 }
+public enum TicketType {kids = 130 , adult = 200 , VIP = 300 }
 
     public class Ticket
         {
@@ -11,7 +11,7 @@ public enum TicketType {kids = 130 , adult = 200 , vip = 300 }
 
             public static int TicketId = 1;
 
-            public Ticket(string name, int price, TicketType type, string id)
+            public Ticket(string name, TicketType type, string id)
             {
                 Name = name;
                 Price = (int)Type;
