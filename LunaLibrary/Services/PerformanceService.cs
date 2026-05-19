@@ -10,9 +10,6 @@ public class PerformanceService
     {
         _performanceRepository = repo;
     }
-
-    
-
     //Videresender forespørgsel
     public List<Performance> GetAll()
     {

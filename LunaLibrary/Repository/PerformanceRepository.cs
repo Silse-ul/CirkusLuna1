@@ -28,7 +28,7 @@ public class PerformanceRepository : IPerformanceRepository
         _performanceList.Add(Herning);
         Performance Kolding = new Performance("09-07-2026", "Kolding", "Armbloden 2", "18:00" ); 
         _performanceList.Add(Kolding);
-        Performance Naestved = new Performance("21-07-2026", "Næs†ved", "Ringerstedgade 120", "19.00" ); 
+        Performance Naestved = new Performance("21-07-2026", "Næstved", "Ringerstedgade 120", "19.00" ); 
         _performanceList.Add(Naestved);
         Performance Vejle = new Performance("08-08-2026", "Vejle", "Havnepladsen 14", "20:00" ); 
         _performanceList.Add(Vejle);

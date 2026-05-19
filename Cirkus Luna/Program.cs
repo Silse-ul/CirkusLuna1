@@ -1,4 +1,5 @@
 using Cirkus_Luna.Pages;
+using Cirkus_Luna.Pages.Services;
 using Cirkus_Luna.Pages.Shared;
 using LunaLibrary.Repository;
 
@@ -10,7 +11,7 @@ builder.Services.AddRazorPages();
 builder.Services.AddSingleton<IPerformanceRepository, PerformanceRepository>();
 builder.Services.AddSingleton<IArtistRepository, ArtistRepository>();
 builder.Services.AddSingleton<ITicketRepository, TicketRepository>();
-
+builder.Services.AddSingleton<PerformanceService>();
 
 
 var app = builder.Build();
