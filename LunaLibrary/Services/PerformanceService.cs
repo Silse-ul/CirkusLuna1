@@ -11,16 +11,7 @@ public class PerformanceService
         _performanceRepository = repo;
     }
 
-    public void CreatePerformance(Performance performance)
-    {
-        if(performance performance.Date < DateTime.Now) //For guds skyld ret den Trine, så den er mellem de datoer der står i opg.
-        {
-            throw new Exception("Vi har ingen shows i den valgte periode");
-        }
-            
-        //Send ordren om at gemme til repo der bruger Add()
-        _performanceRepository.Add(performance);
-    }
+    
 
     //Videresender forespørgsel
     public List<Performance> GetAll()

@@ -6,7 +6,6 @@ namespace Cirkus_Luna.Pages.model;
         public string City { get; set; }
         public string Address { get; set; }
         public string StartTime { get; set; }
-        
         public Artist Artist { get; set; }
         public int Id { get; set; }
 
