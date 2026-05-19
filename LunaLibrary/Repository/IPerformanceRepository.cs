@@ -1,6 +1,8 @@
+using Cirkus_Luna.Pages.model;
+
 namespace LunaLibrary.Repository;
 
-public abstract class IPerformanceRepository
+public interface IPerformanceRepository
 {
     public List<Performance> GetAll()
     {
@@ -26,10 +28,4 @@ public abstract class IPerformanceRepository
     {
         throw new NotImplementedException();
     }
-}
-
-public class Performance
-{
-    public DateTime Date { get; set; }
-    public int Id { get; set; }
 }

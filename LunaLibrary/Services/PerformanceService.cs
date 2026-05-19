@@ -1,3 +1,4 @@
+using Cirkus_Luna.Pages.model;
 using LunaLibrary.Repository;
 
 namespace Cirkus_Luna.Pages.Services;
@@ -12,7 +13,7 @@ public class PerformanceService
 
     public void CreatePerformance(Performance performance)
     {
-        if(performance.Date < DateTime.Now) //For guds skyld ret den Trine, så den er mellem de datoer der står i opg.
+        if(performance performance.Date < DateTime.Now) //For guds skyld ret den Trine, så den er mellem de datoer der står i opg.
         {
             throw new Exception("Vi har ingen shows i den valgte periode");
         }

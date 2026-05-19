@@ -7,8 +7,11 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Compile Update="Repository\PerformanceRepository.cs">
-        <DependentUpon>IPerformanceRepository.cs</DependentUpon>
+      <Compile Update="Repository\ITicketRepository.cs">
+        <DependentUpon>TicketRepository.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Repository\IPerformanceRepository.cs">
+        <DependentUpon>PerformanceRepository.cs</DependentUpon>
       </Compile>
     </ItemGroup>
 

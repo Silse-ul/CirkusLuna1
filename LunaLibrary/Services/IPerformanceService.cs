@@ -1,6 +1,6 @@
 namespace Cirkus_Luna.Pages.Services;
 
-public class ICostumerService
+public interface IPerformanceService
 {
     
 }

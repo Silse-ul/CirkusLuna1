@@ -1,6 +1,6 @@
 namespace Cirkus_Luna.Pages.Services;
 
-public class IEmployeeService
+public class TicketService
 {
     
 }
