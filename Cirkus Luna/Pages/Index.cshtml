@@ -31,11 +31,21 @@
             <div class="card-footer"> køb her </div>
         </div>
     }
-</div>
+    <div class="card" style=" width: 200px ">
+        <img class="card-img-top" src="Image/arrow.jpeg"></img>
+        <div class="card-body">
+            <h5 class="card-title"></h5>
+            <h5 class=" card-subtitle"></h5>
+        </div>
+
+        <div class="card-footer"> Se flere datoer</div>
+    </div>
+    
+    </div>
 
 <hr/>
 
-<div class="card-group">
+<div class="card-group bg-danger clearfix" style="padding: 40px">
     
     @for (int i = 0; i < 4 && i < Model.Artists.Count; i++)
     
@@ -43,13 +53,15 @@
         Cirkus_Luna.Pages.model.Artist item = Model.Artists[i];
         
         <div class="card" style=" width: 200px ">
-            <img class="card-img-top" src="@item.ImagePathArtist"></img>
-            <div class="card-body">
-                <h5 class="card-title">@item.Name</h5>
-                <h5 class=" card-subtitle">@item.Act</h5>
-            </div>
-
-            <div class="card-footer"> </div>
+            <img class=" float-start" src="@item.ImagePathArtist"></img>
+            
         </div>
     }
+    <div class="card" style=" width: 200px ">
+        <img class=" float-end" src="Image/arrow.jpeg"></img>
+        <div class="card-body">
+            <a asp-page="artistDetails" class="streached-link"> Se flere artister</a>
+        </div>
+        
+    </div>
 </div>
