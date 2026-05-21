@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sillajohanne/Desktop/Rider programming/Cirkus Luna/Cirkus Luna/Cirkus Luna.csproj": {}
+    "/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/Cirkus Luna.csproj": {}
   },
   "projects": {
-    "/Users/sillajohanne/Desktop/Rider programming/Cirkus Luna/Cirkus Luna/Cirkus Luna.csproj": {
+    "/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/Cirkus Luna.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sillajohanne/Desktop/Rider programming/Cirkus Luna/Cirkus Luna/Cirkus Luna.csproj",
+        "projectUniqueName": "/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/Cirkus Luna.csproj",
         "projectName": "Cirkus Luna",
-        "projectPath": "/Users/sillajohanne/Desktop/Rider programming/Cirkus Luna/Cirkus Luna/Cirkus Luna.csproj",
-        "packagesPath": "/Users/sillajohanne/.nuget/packages/",
-        "outputPath": "/Users/sillajohanne/Desktop/Rider programming/Cirkus Luna/Cirkus Luna/obj/",
+        "projectPath": "/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/Cirkus Luna.csproj",
+        "packagesPath": "/Users/ceciliepedersen/.nuget/packages/",
+        "outputPath": "/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/sillajohanne/.nuget/NuGet/NuGet.Config"
+          "/Users/ceciliepedersen/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -27,8 +27,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "/Users/sillajohanne/Desktop/Rider programming/Cirkus Luna/LunaLibrary/LunaLibrary.csproj": {
-                "projectPath": "/Users/sillajohanne/Desktop/Rider programming/Cirkus Luna/LunaLibrary/LunaLibrary.csproj"
+              "/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/LunaLibrary/LunaLibrary.csproj": {
+                "projectPath": "/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/LunaLibrary/LunaLibrary.csproj"
               }
             }
           }
@@ -43,7 +43,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.200"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net10.0": {
@@ -67,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.201/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.102/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
@@ -485,17 +485,17 @@
         }
       }
     },
-    "/Users/sillajohanne/Desktop/Rider programming/Cirkus Luna/LunaLibrary/LunaLibrary.csproj": {
+    "/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/LunaLibrary/LunaLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sillajohanne/Desktop/Rider programming/Cirkus Luna/LunaLibrary/LunaLibrary.csproj",
+        "projectUniqueName": "/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/LunaLibrary/LunaLibrary.csproj",
         "projectName": "LunaLibrary",
-        "projectPath": "/Users/sillajohanne/Desktop/Rider programming/Cirkus Luna/LunaLibrary/LunaLibrary.csproj",
-        "packagesPath": "/Users/sillajohanne/.nuget/packages/",
-        "outputPath": "/Users/sillajohanne/Desktop/Rider programming/Cirkus Luna/LunaLibrary/obj/",
+        "projectPath": "/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/LunaLibrary/LunaLibrary.csproj",
+        "packagesPath": "/Users/ceciliepedersen/.nuget/packages/",
+        "outputPath": "/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/LunaLibrary/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/sillajohanne/.nuget/NuGet/NuGet.Config"
+          "/Users/ceciliepedersen/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -520,7 +520,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.200"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net10.0": {
@@ -541,7 +541,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.201/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.102/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
