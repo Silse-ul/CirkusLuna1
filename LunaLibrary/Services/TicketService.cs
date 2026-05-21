@@ -23,7 +23,7 @@ public class TicketService
             }
             else
             {
-                Console.WriteLine("Der er altså ik flere VIP pladser");
+                Console.WriteLine("Der er Dsv. ikke flere VIP pladser");
             }
                 
         } 
@@ -36,7 +36,7 @@ public class TicketService
             }
             else
             {
-                Console.WriteLine("Der er ikke flere pladser i cikruset");
+                Console.WriteLine("Der er ikke flere pladser i cikrkusset");
             }
             
         }

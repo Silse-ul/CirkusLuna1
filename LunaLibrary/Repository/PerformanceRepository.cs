@@ -14,8 +14,8 @@ public class PerformanceRepository : IPerformanceRepository
         _performanceList = new List<Performance>();
 
         //Vi smider nogle i fra start
-        Performance odense = new Performance("03-05-2026", "Odense", "Ørbækvej 350", "19.00" ); 
-        _performanceList.Add(odense);
+        Performance Odense = new Performance("03-05-2026", "Odense", "Ørbækvej 350", "19.00" ); 
+        _performanceList.Add(Odense);
         Performance Aalborg = new Performance("11-05-2026", "Aalborg", "Skydebanevej 12", "18:30");
         _performanceList.Add(Aalborg);
         Performance Esbjerg = new Performance("24-05-2026", "Esbjerg", "Gammel Vardevej 82", "20:00"); 
