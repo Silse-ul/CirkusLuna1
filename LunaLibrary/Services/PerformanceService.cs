@@ -33,7 +33,11 @@ public class PerformanceService
             {
                 searchList.Add(performance);
             }
-           
+
+            else
+            {
+                searchList.Add(performance);
+            }
         }
 
         return searchList;
