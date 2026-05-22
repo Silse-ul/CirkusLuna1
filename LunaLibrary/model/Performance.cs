@@ -24,10 +24,10 @@ namespace Cirkus_Luna.Pages.model;
             //Bedre at kaste exception, men null for nu
         }
 
-        public Performance(string date, string city, string address, string startTime, string artist) : this(date, city,
+        public Performance(string date, string city, string address, string startTime, Artist artist) : this(date, city,
             address, startTime)
         {
-            Artist = Artist;
+            Artist = artist;
             Id = PerformanceCounter++;
         }
 

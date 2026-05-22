@@ -1,0 +1,64 @@
+@page
+@using Cirkus_Luna.Pages.model
+@model Cirkus_Luna.Pages.Performances
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+<html>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+<head>
+    <title></title>
+</head>
+<body>
+
+<div class="text-center">
+    <h1 class="display-4">Velkommen til Cirkus Luna</h1>
+</div>
+
+<hr/>
+<nav class="mt-5 navbar navbar-expand-lg bg-danger navbar-light">
+    <div class="container">
+        <a href="#" class="navbar-brand">Søg bar</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+        <ul class="navbar-nav"> 
+            <li class="nav-item"> 
+                <a class="nav-link"> first</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link"> anden</a>
+            </li>
+        </ul>
+        <form class="d-flex ms-3">
+            <input class="form-control me-2" type="search" name="city" placeholder="Search" aria-label="Search">
+            <input class="form-control me-2" type="search" name="date" />
+            <button class="btn btn-outline-light" type="submit">go</button>
+        </form>
+    </div>
+</nav>
+<div>
+    
+    
+    <div class="container-md">
+      
+        <table class="table table-danger table-hover table-striped">
+            <thead><tr><th>By</th><th>Dato</th><th>Start Tidspunkt</th><th>Billeter</th></tr></thead>
+
+            @foreach (Performance item in Model.performances)
+            {
+                <tbody>
+                <tr><td>@item.City</td><td>@item.Date</td><td>@item.StartTime</td><td class="btn btn-danger"></td></tr>
+
+                </tbody>
+
+            }
+        </table>
+    </div>
+</div>
+
+</body>
+</html>

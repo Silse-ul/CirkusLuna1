@@ -73,22 +73,7 @@ public class PerformanceRepository : IPerformanceRepository
         throw new NotImplementedException();
     }
     
-    public List <Performance> Search(string city, string date )
-    {
-       List<Performance> searchList = new List<Performance>();
-
-       foreach (Performance performance in _performanceList)
-       {
-           if ((performance.City.ToLower() == city.ToLower()) || (performance.Date.ToLower() == date.ToLower()))
-           {
-               searchList.Add(performance);
-           }
-           
-       }
-
-       return searchList;
-        
-    }
+    
 }
 
     
