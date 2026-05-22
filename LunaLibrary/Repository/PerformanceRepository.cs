@@ -14,12 +14,16 @@ public class PerformanceRepository : IPerformanceRepository
         _performanceList = new List<Performance>();
 
         //Vi smider nogle i fra start
-        Performance Odense = new Performance("03-05-2026", "Odense", "Ørbækvej 350", "19.00" ); 
+        Performance Odense = new Performance("03-05-2026", "Odense", "Ørbækvej 350", "15.00" ); 
         _performanceList.Add(Odense);
+        Performance Odense2 = new Performance("03-05-2026", "Odense", "Ørbækvej 350", "19.00" ); 
+        _performanceList.Add(Odense2);
         Performance Aalborg = new Performance("11-05-2026", "Aalborg", "Skydebanevej 12", "18:30");
         _performanceList.Add(Aalborg);
-        Performance Esbjerg = new Performance("24-05-2026", "Esbjerg", "Gammel Vardevej 82", "20:00"); 
+        Performance Esbjerg = new Performance("24-05-2026", "Esbjerg", "Gammel Vardevej 82", "15:30"); 
         _performanceList.Add(Esbjerg);
+        Performance Esbjerg2 = new Performance("24-05-2026", "Esbjerg", "Gammel Vardevej 82", "20:00"); 
+        _performanceList.Add(Esbjerg2);
         Performance Randers = new Performance("02-06-2026", "Randers", "Viborgvej 45", "17:30" ); 
         _performanceList.Add(Randers);
         Performance Roskilde = new Performance("14-06-2026", "Roskilde", "Darupvej 19", "19:30");
@@ -32,6 +36,8 @@ public class PerformanceRepository : IPerformanceRepository
         _performanceList.Add(Naestved);
         Performance Vejle = new Performance("08-08-2026", "Vejle", "Havnepladsen 14", "20:00" ); 
         _performanceList.Add(Vejle);
+        Performance Vejle2 = new Performance("09-08-2026", "Vejle", "Havnepladsen 14", "19:30" ); 
+        _performanceList.Add(Vejle2);
         Performance Hjorring = new Performance("27-08-2026", "Hjørring", "Stadionvej 5", "18:30" ); 
         _performanceList.Add(Hjorring);
      
@@ -61,6 +67,12 @@ public class PerformanceRepository : IPerformanceRepository
     {
         throw new NotImplementedException();
     }
+    
+    public void Search(_performanceList Performance )
+    {
+        throw new NotImplementedException();
+    }
 }
+
     
 
