@@ -24,18 +24,20 @@
 <nav class="mt-5 navbar navbar-expand-lg bg-danger navbar-light">
     <div class="container">
         <a href="#" class="navbar-brand">Søg bar</a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
-        <ul class="navbar-nav"> 
-            <li class="nav-item"> 
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation"></button>
+        <div class="collapse navbar-collapse" id="navbarText">
+            <ul class="navbar-nav">
+            <li class="nav-item">
                 <a class="nav-link"> first</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link"> anden</a>
             </li>
-        </ul>
-        <form class="d-flex ms-3">
-            <input class="form-control me-2" type="search" name="city" placeholder="Search" aria-label="Search">
-            <input class="form-control me-2" type="search" name="date" />
+            </ul>
+        </div>
+        <form method="get" class="d-flex ms-3">
+            <input class="form-control me-2" type="search" name="city" placeholder="By" aria-label="Search">
+            <input class="form-control me-2" type="search" name="date" placeholder="Dato"/>
             <button class="btn btn-outline-light" type="submit">go</button>
         </form>
     </div>
@@ -48,7 +50,7 @@
         <table class="table table-danger table-hover table-striped">
             <thead><tr><th>By</th><th>Dato</th><th>Start Tidspunkt</th><th>Billeter</th></tr></thead>
 
-            @foreach (Performance item in Model.performances)
+            @foreach (Performance item in Model.Performances1)
             {
                 <tbody>
                 <tr><td>@item.City</td><td>@item.Date</td><td>@item.StartTime</td><td class="btn btn-danger"></td></tr>

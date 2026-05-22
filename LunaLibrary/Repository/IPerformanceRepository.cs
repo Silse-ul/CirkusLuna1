@@ -29,5 +29,5 @@ public interface IPerformanceRepository
         throw new NotImplementedException();
     }
 
-    public List<Performance> Search(string criteria);
+    public List<Performance> Search(string city, string date);
 }

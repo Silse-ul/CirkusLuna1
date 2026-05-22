@@ -19,28 +19,10 @@ public class PerformanceService
     {
         return _performanceRepository.GetById(id);
     }
-    public List<Performance> Search(string criteria)
+    public List<Performance> Search(string city, string date)
     {
-        throw new NotImplementedException();
+        return _performanceRepository.Search(city, date);
     }
-    public List <Performance> Search(string city, string date )
-    {
-        List<Performance> searchList = new List<Performance>();
-
-        foreach (Performance performance in _performanceList)
-        {
-            if ((performance.City.ToLower() == city.ToLower()) || (performance.Date.ToLower() == date.ToLower()))
-            {
-                searchList.Add(performance);
-            }
-
-            else
-            {
-                searchList.Add(performance);
-            }
-        }
-
-        return searchList;
-        
-    }
+     
+   
 }

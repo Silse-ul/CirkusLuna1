@@ -8,11 +8,11 @@ public class Performances : PageModel
 {
     public void OnGet(string city, string date)
     {
-        performances = _performanceService.Search(city, date);
+        Performances1 = _performanceService.Search(city, date);
     }
     
 
-    public List<Performance> performances{get;set;}
+    public List<Performance> Performances1{get;set;}
     
     private readonly ILogger<Performances> _logger;
     private readonly PerformanceService _performanceService;
@@ -20,7 +20,7 @@ public class Performances : PageModel
     public Performances(ILogger <Performances> logger, PerformanceService  performanceService)
     {
         _logger = logger;
-        performances = performanceService.GetAll();
+        Performances1 = performanceService.GetAll();
         _performanceService = performanceService;
     }
     

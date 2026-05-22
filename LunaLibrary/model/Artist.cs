@@ -13,6 +13,8 @@ public class Artist
         private static int ArtistId = 0;
         
         public string ImagePathArtist {get; set;}
+        
+        public List <Performance> performances {get; set;}
 
         public Artist(string name, string description, string act , string imagePathArtist)
         {
@@ -21,5 +23,7 @@ public class Artist
                 Act = act;
                 Id = ArtistId++;
                 ImagePathArtist = imagePathArtist;
+                performances = new List<Performance>();
+                
         }
 }

@@ -56,10 +56,35 @@ public class PerformanceRepository : IPerformanceRepository
         throw new NotImplementedException();
     }
 
-    public List<Performance> Search(string criteria)
+    public List<Performance> Search(string city, string date)
     {
-        throw new NotImplementedException();
+        if (string.IsNullOrEmpty(city) && string.IsNullOrEmpty(date))
+        {
+            return _performanceList;
+        }
+        else
+        {
+            List<Performance> searchList = new List<Performance>();
+
+            foreach (Performance performance in _performanceList)
+            {
+                if ((performance.City.ToLower() == city.ToLower()) || (performance.Date.ToLower() == date.ToLower()))
+                {
+                    searchList.Add(performance);
+                }
+
+
+            }
+
+            return searchList;
+        }
+        
+       
+        
+
     }
+
+
 
     public void Add(Performance performance)
     {
@@ -74,6 +99,7 @@ public class PerformanceRepository : IPerformanceRepository
     }
     
     
+  
 }
 
     
