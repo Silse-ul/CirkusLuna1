@@ -56,6 +56,11 @@ public class PerformanceRepository : IPerformanceRepository
         throw new NotImplementedException();
     }
 
+    public List<Performance> Search(string criteria)
+    {
+        throw new NotImplementedException();
+    }
+
     public void Add(Performance performance)
     {
         int Id = _performanceList.Count + 1;
@@ -68,9 +73,21 @@ public class PerformanceRepository : IPerformanceRepository
         throw new NotImplementedException();
     }
     
-    public void Search(_performanceList Performance )
+    public List <Performance> Search(string city, string date )
     {
-        throw new NotImplementedException();
+       List<Performance> searchList = new List<Performance>();
+
+       foreach (Performance performance in _performanceList)
+       {
+           if ((performance.City.ToLower() == city.ToLower()) || (performance.Date.ToLower() == date.ToLower()))
+           {
+               searchList.Add(performance);
+           }
+           
+       }
+
+       return searchList;
+        
     }
 }
 
