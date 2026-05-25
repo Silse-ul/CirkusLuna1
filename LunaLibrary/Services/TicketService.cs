@@ -6,6 +6,8 @@ namespace Cirkus_Luna.Pages.Services;
 public class TicketService
 {
     private readonly ITicketRepository _ticketRepository;
+
+    _ticketRepository.VIPTickets;
     public TicketService(ITicketRepository repo)
     {
         _ticketRepository = repo;

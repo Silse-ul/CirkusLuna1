@@ -5,11 +5,9 @@ public enum TicketType {kids = 130 , adult = 200 , VIP = 300 }
     public class Ticket
         {
             public string Name { get; set; }
-            public int Price  { get; set; }
+            public  int Price  { get; set; }
             public TicketType Type { get; set; }
             public string Id { get; set; }
-            
-            public static int TicketId = 1;
             
             public int performanceId { get; set; }
             
@@ -19,7 +17,7 @@ public enum TicketType {kids = 130 , adult = 200 , VIP = 300 }
             
             public void CalculatePrice()
             {
-                Price = (int)TicketType; 
+                Price = (int)Type; 
             }
 
             

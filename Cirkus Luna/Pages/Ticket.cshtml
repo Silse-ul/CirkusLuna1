@@ -7,7 +7,7 @@
 
 <!DOCTYPE html>
 
-<html>
+<html> 
 <head>
     <title></title>
 </head>
@@ -78,6 +78,14 @@
         </div>
 
     </div>
+    @if (Model.Price > 0)
+    {
+        <script>
+
+        alert("Din billet koster @Model.Price kr");
+
+    </script>
+    }
 </div>
 </body>
 </html>

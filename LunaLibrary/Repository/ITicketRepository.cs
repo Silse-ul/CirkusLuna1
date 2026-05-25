@@ -6,4 +6,15 @@ public interface ITicketRepository
 { 
     List<Ticket> AllTickets { get; set; }
     List<Ticket> VIPTickets { get; set; }
+    int Price { get; set; }
+    int TicketType { get; set; }
+    
+    public void CalculatePrice()
+    {
+        Price = (int)TicketType;
+    }
+
+
+
+    
 }
