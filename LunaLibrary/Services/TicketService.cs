@@ -18,7 +18,7 @@ public class TicketService
             if (_ticketRepository.VIPTickets.Count < 11)
             {
                 _ticketRepository.VIPTickets.Add(ticket);
-                Console.WriteLine("VIP billet købt :)");
+                Console.WriteLine("VIP billet reservert :)");
             
             }
             else
@@ -32,7 +32,7 @@ public class TicketService
             if (_ticketRepository.AllTickets.Count < 151)
             {
                 _ticketRepository.AllTickets.Add(ticket);
-                Console.WriteLine("Du har købt en almendelig billet");
+                Console.WriteLine("Du har reserveret en almendelig billet");
             }
             else
             {
