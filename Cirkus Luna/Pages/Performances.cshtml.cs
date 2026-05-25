@@ -6,9 +6,9 @@ namespace Cirkus_Luna.Pages;
 
 public class Performances : PageModel
 {
-    public void OnGet(string city, string date)
+    public void OnGet(string search)
     {
-        Performances1 = _performanceService.Search(city, date);
+        Performances1 = _performanceService.Search(search);
     }
     
 

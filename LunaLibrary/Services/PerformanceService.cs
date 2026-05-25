@@ -19,9 +19,9 @@ public class PerformanceService
     {
         return _performanceRepository.GetById(id);
     }
-    public List<Performance> Search(string city, string date)
+    public List<Performance> Search(string search)
     {
-        return _performanceRepository.Search(city, date);
+        return _performanceRepository.Search(search);
     }
      
    
