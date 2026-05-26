@@ -1,5 +1,6 @@
 namespace Cirkus_Luna.Pages.model;
 
+
 public class Artist
 {
         public int Id {get; set;}
@@ -14,7 +15,12 @@ public class Artist
         
         public string ImagePathArtist {get; set;}
         
-        public List <Performance> performances {get; set;}
+        public List <Performance> Performances {get; set;}
+
+        public Artist()
+        {
+                Performances = new List<Performance>();
+        }
 
         public Artist(string name, string description, string act , string imagePathArtist)
         {
@@ -23,7 +29,7 @@ public class Artist
                 Act = act;
                 Id = ArtistId++;
                 ImagePathArtist = imagePathArtist;
-                performances = new List<Performance>();
+                Performances = new List<Performance>();
                 
         }
 }
