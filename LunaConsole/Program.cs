@@ -1,4 +1,6 @@
-﻿namespace LunaConsole;
+﻿
+
+namespace LunaConsole;
 
 class Program
 {
@@ -7,4 +9,10 @@ class Program
 
         Console.WriteLine("");
     }
+    
+   
 }
+
+
+ 
+ 
