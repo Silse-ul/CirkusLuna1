@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cirkus Luna")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aeefaaaa224424a81bc312f01f3a8a7fb4c06ea1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe71cfcc2ac617a0fa9cbfc877bcc4227944f964")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cirkus Luna")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cirkus Luna")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

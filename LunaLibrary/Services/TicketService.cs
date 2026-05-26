@@ -1,4 +1,5 @@
 using Cirkus_Luna.Pages.model;
+using Cirkus_Luna.Pages.Model;
 using LunaLibrary.Repository;
 
 namespace Cirkus_Luna.Pages.Services;
@@ -7,7 +8,7 @@ public class TicketService
 {
     private readonly ITicketRepository _ticketRepository;
 
-    _ticketRepository.VIPTickets;
+    
     public TicketService(ITicketRepository repo)
     {
         _ticketRepository = repo;
@@ -47,3 +48,4 @@ public class TicketService
     
 
 }
+

@@ -1,4 +1,4 @@
-namespace Cirkus_Luna.Pages.model;
+namespace Cirkus_Luna.Pages.Model;
 
 public enum TicketType {kids = 130 , adult = 200 , VIP = 300 }
 
@@ -12,28 +12,27 @@ public enum TicketType {kids = 130 , adult = 200 , VIP = 300 }
             public int performanceId { get; set; }
             
             public string CustomerName{ get; set; }
-            public int TicketType { get; set; } 
-            
-            
-            public void CalculatePrice()
+
+            public Ticket()
             {
-                Price = (int)Type; 
+                
             }
-
             
-
-
             public Ticket(string name, TicketType type, string id)
             {
                 Name = name;
-                Price = (int)Type;
                 Type = type;
                 Id = id;
+                CalculatePrice();
                 
             }
+            public void CalculatePrice()
+            {                           
+                Price = (int)Type;      
+            }                           
 
 
         }
-    
+                                   
     
     

@@ -1,5 +1,5 @@
 @page
-@model Cirkus_Luna.Pages.Ticket
+@model Cirkus_Luna.Pages.TicketModel
 
 @{
     Layout = null;
@@ -42,8 +42,8 @@
 
             <input class="form-check-input"
                    type="radio"
-                   asp-for="Tickets.TicketType"
-                   value="Child" />
+                   asp-for="TicketType"
+                   value="Kids" />
 
             <label class="form-check-label">
                 Børnebillet - 130 kr
@@ -55,7 +55,7 @@
 
             <input class="form-check-input"
                    type="radio"
-                   asp-for="Tickets.TicketType"
+                   asp-for="TicketType"
                    value="Adult" />
 
             <label class="form-check-label">
@@ -68,7 +68,7 @@
 
             <input class="form-check-input"
                    type="radio"
-                   asp-for="Tickets.TicketType"
+                   asp-for="TicketType"
                    value="VIP" />
 
             <label class="form-check-label">
@@ -80,11 +80,9 @@
     </div>
     @if (Model.Price > 0)
     {
-        <script>
-
-        alert("Din billet koster @Model.Price kr");
-
-    </script>
+        <h3>
+            Din billet koster @Model.Price kr
+        </h3>
     }
 </div>
 </body>
