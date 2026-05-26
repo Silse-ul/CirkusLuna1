@@ -20,18 +20,9 @@ public string CustomerName { get; set; }
 
     [BindProperty]
     public TicketType TicketType { get; set; }
-    public int PerformanceId { get; set; }
-    public TicketType Type { get; set; }
-
-    public void CalculatePrice()
-    {
-        Price = (int)TicketType;
-    }
-    public int Price { get; set; }
-
     
-   
-    public Ticket Tickets { get; set; }
+    public int Price { get; set; }
+    
 
     public void OnGet()
     {
@@ -43,17 +34,18 @@ public string CustomerName { get; set; }
     public void OnPost()
     {
         Ticket ticket = new Ticket();
-        _ticketService.AddTicket(ticket);
-        ticket.CalculatePrice();
 
         ticket.CustomerName = CustomerName;
+
         ticket.Type = TicketType;
-        
+
+        ticket.CalculatePrice();
+
+        _ticketService.AddTicket(ticket);
+
         Price = ticket.Price;
-
-        
     }
-
+    
     
 }
 

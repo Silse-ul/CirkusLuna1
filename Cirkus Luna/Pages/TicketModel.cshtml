@@ -7,14 +7,14 @@
 
 <!DOCTYPE html>
 
-<html> 
+<html>
 <head>
     <title></title>
 </head>
 <body>
 <div>
     <h2>Reserver billet</h2>
-
+    <div>
     <form method="post">
 
         <div class="mb-3">
@@ -26,6 +26,51 @@
 
         </div>
 
+        <div class="mb-3">
+
+            <label>Vælg billet type</label>
+
+            <div class="form-check">
+
+                <input class="form-check-input"
+                       type="radio"
+                       asp-for="TicketType"
+                       value="Kids" />
+
+                <label class="form-check-label">
+                    Børnebillet - 130 kr
+                </label>
+
+            </div>
+
+            <div class="form-check">
+
+                <input class="form-check-input"
+                       type="radio"
+                       asp-for="TicketType"
+                       value="Adult" />
+
+                <label class="form-check-label">
+                    Voksen - 200 kr
+                </label>
+
+            </div>
+
+            <div class="form-check">
+
+                <input class="form-check-input"
+                       type="radio"
+                       asp-for="TicketType"
+                       value="VIP" />
+
+                <label class="form-check-label">
+                    VIP - 300 kr
+                </label>
+
+            </div>
+
+        </div>
+
         <button type="submit"
                 class="btn btn-danger">
 
@@ -34,48 +79,6 @@
         </button>
 
     </form>
-    <div class="mb-3">
-
-        <label>Vælg billet type</label>
-
-        <div class="form-check">
-
-            <input class="form-check-input"
-                   type="radio"
-                   asp-for="TicketType"
-                   value="Kids" />
-
-            <label class="form-check-label">
-                Børnebillet - 130 kr
-            </label>
-
-        </div>
-
-        <div class="form-check">
-
-            <input class="form-check-input"
-                   type="radio"
-                   asp-for="TicketType"
-                   value="Adult" />
-
-            <label class="form-check-label">
-                Voksen - 200 kr
-            </label>
-
-        </div>
-
-        <div class="form-check">
-
-            <input class="form-check-input"
-                   type="radio"
-                   asp-for="TicketType"
-                   value="VIP" />
-
-            <label class="form-check-label">
-                VIP - 300 kr
-            </label>
-
-        </div>
 
     </div>
     @if (Model.Price > 0)
@@ -84,6 +87,6 @@
             Din billet koster @Model.Price kr
         </h3>
     }
-</div>
+    </div>
 </body>
 </html>
