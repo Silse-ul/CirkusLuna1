@@ -49,11 +49,17 @@ public class PerformanceRepository : IPerformanceRepository
     }
 
 
+    public void AddArtist(int performanceId, Artist artist)
+    {
+        throw new NotImplementedException();
+    }
+
     public void Delete(Performance performance)
     {
         throw new NotImplementedException();
     }
 
+    
     public Performance GetById(int id)
     {
         foreach (Performance performance in _performanceList)
@@ -65,51 +71,66 @@ public class PerformanceRepository : IPerformanceRepository
 
             return null;
         }
-        
-        public List<Performance> Search(string search)
-    {
-        if (string.IsNullOrEmpty(search))
-        {
-            return _performanceList;
-        }
-        else
-        {
-            List<Performance> searchList = new List<Performance>();
 
-            foreach (Performance performance in _performanceList)
+        return null;
+    }
+
+    public List<Performance> Search(string search)
+        {
+            if (string.IsNullOrEmpty(search))
             {
-                if ((performance.City.ToLower() == search.ToLower()) || (performance.Date.ToLower() == search.ToLower()))
+                return _performanceList;
+            }
+            else
+            {
+                List<Performance> searchList = new List<Performance>();
+
+                foreach (Performance performance in _performanceList)
                 {
-                    searchList.Add(performance);
+                    if ((performance.City.ToLower() == search.ToLower()) ||
+                        (performance.Date.ToLower() == search.ToLower()))
+                    {
+                        searchList.Add(performance);
+                    }
+
+
                 }
 
-
+                return searchList;
             }
 
-            return searchList;
+
+
+
         }
-        
-       
-        
-
-    }
 
 
 
-    public void Add(Performance performance)
-    {
-        int Id = _performanceList.Count + 1;
-        _performanceList.Add(performance);
-    }
+        public void Add(Performance performance)
+        {
+            int Id = _performanceList.Count + 1;
+            _performanceList.Add(performance);
+        }
 
-    public void Update(Performance performance)
-    {
-        throw new NotImplementedException();
-    }
-    
-    
-  
+        public void Update(Performance performance)
+        {
+            throw new NotImplementedException();
+        }
+
+        public void AddArtistToPerformance(int performanceId, Artist artist)
+        {
+            Performance performance = GetById(performanceId);
+
+            if (performance != null)
+            {
+                performance.Artists.Add(artist);
+            }
+        }
+
 }
+
+
+    
 
     
 

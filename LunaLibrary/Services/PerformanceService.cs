@@ -10,6 +10,31 @@ public class PerformanceService
     {
         _performanceRepository = repo;
     }
+
+    public void AddArtist(int performanceId, Artist artist)
+    {
+        Performance performance = _performanceRepository.GetById(performanceId);
+        
+        if (performance != null)
+        {
+            bool alreadyExists = false;
+
+            foreach (Artist existingArtist in performance.Artists)
+            {
+                if (existingArtist.Id == artist.Id)
+                {
+                    alreadyExists = true;
+                    break;
+                }
+            }
+            if (!alreadyExists)
+            {
+                _performanceRepository.AddArtist(performanceId, artist);
+                artist.Performances.Add(performance);
+            }
+        }
+    }
+    
     //Videresender forespørgsel
     public List<Performance> GetAll()
     {
