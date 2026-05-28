@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LunaConsole")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5562332a146b190dd6050547cd714d1db51a6b1b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7eeee901a8239b5a8cc7d224417da1ee4854b5a8")]
 [assembly: System.Reflection.AssemblyProductAttribute("LunaConsole")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LunaConsole")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

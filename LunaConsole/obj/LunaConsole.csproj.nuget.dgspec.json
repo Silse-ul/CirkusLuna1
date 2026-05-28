@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/LunaConsole/LunaConsole.csproj": {}
+    "/Users/sillajohanne/Desktop/Rider programming/Cirkus Luna/LunaConsole/LunaConsole.csproj": {}
   },
   "projects": {
-    "/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/LunaConsole/LunaConsole.csproj": {
+    "/Users/sillajohanne/Desktop/Rider programming/Cirkus Luna/LunaConsole/LunaConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/LunaConsole/LunaConsole.csproj",
+        "projectUniqueName": "/Users/sillajohanne/Desktop/Rider programming/Cirkus Luna/LunaConsole/LunaConsole.csproj",
         "projectName": "LunaConsole",
-        "projectPath": "/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/LunaConsole/LunaConsole.csproj",
-        "packagesPath": "/Users/ceciliepedersen/.nuget/packages/",
-        "outputPath": "/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/LunaConsole/obj/",
+        "projectPath": "/Users/sillajohanne/Desktop/Rider programming/Cirkus Luna/LunaConsole/LunaConsole.csproj",
+        "packagesPath": "/Users/sillajohanne/.nuget/packages/",
+        "outputPath": "/Users/sillajohanne/Desktop/Rider programming/Cirkus Luna/LunaConsole/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/ceciliepedersen/.nuget/NuGet/NuGet.Config"
+          "/Users/sillajohanne/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -39,7 +39,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net10.0": {
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.102/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.201/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
