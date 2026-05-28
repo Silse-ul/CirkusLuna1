@@ -12,6 +12,8 @@ builder.Services.AddSingleton<IPerformanceRepository, PerformanceRepository>();
 builder.Services.AddSingleton<IArtistRepository, ArtistRepository>();
 builder.Services.AddSingleton<ITicketRepository, TicketRepository>();
 builder.Services.AddSingleton<PerformanceService>();
+builder.Services.AddSingleton<ArtistService>();
+builder.Services.AddSingleton<TicketService>();
 
 
 var app = builder.Build();

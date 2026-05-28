@@ -14,10 +14,12 @@ public interface IPerformanceRepository
         throw new NotImplementedException();
     }
 
-    public  void Add(Performance performance)
+    public  void Add (Performance performance)
     {
         throw new NotImplementedException();
     }
+
+    public void AddArtist(int performanceId, Artist artist);
 
     public void Update(Performance performance)
     {
@@ -28,4 +30,6 @@ public interface IPerformanceRepository
     {
         throw new NotImplementedException();
     }
+
+    public List<Performance> Search(string search);
 }

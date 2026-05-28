@@ -8,29 +8,24 @@ namespace Cirkus_Luna.Pages.model;
         public string StartTime { get; set; }
         public Artist Artist { get; set; }
         public int Id { get; set; }
-
-
+        public List<Artist> Artists { get; set; }
 
         private static int PerformanceCounter = 1; 
         
-
-        //Starter vi programmet med et par forestillinger?
         public Performance(string date, string city, string address, string startTime)
         {
             City = city;
             Address = address;
             StartTime = startTime;
             Date = date;
-            //Bedre at kaste exception, men null for nu
+            Artists = new List<Artist>();
         }
 
-        public Performance(string date, string city, string address, string startTime, string artist) : this(date, city,
+        public Performance(string date, string city, string address, string startTime, Artist artist) : this(date, city,
             address, startTime)
         {
-            Artist = Artist;
+            Artist = artist;
             Id = PerformanceCounter++;
         }
-
-        //Performance newPerformance = new Performance(DateTime, "Slagelse", "Ogglyboogly", "Bubber", "Standgade 24", "18:30");
 
     }
