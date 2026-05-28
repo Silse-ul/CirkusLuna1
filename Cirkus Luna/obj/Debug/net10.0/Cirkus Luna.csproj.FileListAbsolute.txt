@@ -100,3 +100,105 @@
 /Users/sillajohanne/Desktop/Rider programming/Cirkus Luna/Cirkus Luna/bin/Debug/net10.0/LunaLibrary.pdb
 /Users/sillajohanne/Desktop/Rider programming/Cirkus Luna/Cirkus Luna/obj/Debug/net10.0/Cirkus Luna.csproj.AssemblyReference.cache
 /Users/sillajohanne/Desktop/Rider programming/Cirkus Luna/Cirkus Luna/obj/Debug/net10.0/Cirkus L.21268C41.Up2Date
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/bin/Debug/net10.0/appsettings.Development.json
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/bin/Debug/net10.0/appsettings.json
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/bin/Debug/net10.0/Cirkus Luna.staticwebassets.runtime.json
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/bin/Debug/net10.0/Cirkus Luna.staticwebassets.endpoints.json
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/bin/Debug/net10.0/Cirkus Luna
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/bin/Debug/net10.0/Cirkus Luna.deps.json
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/bin/Debug/net10.0/Cirkus Luna.runtimeconfig.json
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/bin/Debug/net10.0/Cirkus Luna.dll
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/bin/Debug/net10.0/Cirkus Luna.pdb
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/bin/Debug/net10.0/LunaLibrary.dll
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/bin/Debug/net10.0/LunaLibrary.pdb
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/Cirkus Luna.csproj.AssemblyReference.cache
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/rpswa.dswa.cache.json
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/Cirkus Luna.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/Cirkus Luna.AssemblyInfoInputs.cache
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/Cirkus Luna.AssemblyInfo.cs
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/Cirkus Luna.csproj.CoreCompileInputs.cache
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/Cirkus Luna.MvcApplicationPartsAssemblyInfo.cache
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/Cirkus Luna.RazorAssemblyInfo.cache
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/Cirkus Luna.RazorAssemblyInfo.cs
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/Cirkus Luna.sourcelink.json
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/rjimswa.dswa.cache.json
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/scopedcss/bundle/Cirkus Luna.styles.css
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/scopedcss/projectbundle/Cirkus Luna.bundle.scp.css
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/compressed/gbc5qqimzc-{0}-lugek5hnai-lugek5hnai.gz
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/compressed/f0achzpe0p-{0}-61n19gt1b8-61n19gt1b8.gz
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/compressed/8hnojw8zuq-{0}-fr7q2aak1r-fr7q2aak1r.gz
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/compressed/vglok1ydat-{0}-bqjiyaj88i-bqjiyaj88i.gz
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/compressed/q5w5agchnb-{0}-c2jlpeoesf-c2jlpeoesf.gz
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/compressed/ekh2o6xkvt-{0}-erw9l3u2r3-erw9l3u2r3.gz
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/compressed/dda5rdfdja-{0}-aexeepp0ev-aexeepp0ev.gz
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/compressed/ucldg64lst-{0}-d7shbmvgxk-d7shbmvgxk.gz
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/compressed/acfcikur5p-{0}-ausgxo2sd3-ausgxo2sd3.gz
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/compressed/qbe2atq4s6-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/compressed/9ls7e4cuzt-{0}-cosvhxvwiu-cosvhxvwiu.gz
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/compressed/3h2zgfwu6r-{0}-ub07r2b239-ub07r2b239.gz
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/compressed/hyh8wq3g5b-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/compressed/ua7288hp3e-{0}-b7pk76d08c-b7pk76d08c.gz
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/compressed/r92wud6v5s-{0}-fsbi9cje9m-fsbi9cje9m.gz
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/compressed/vykgy0hges-{0}-rzd6atqjts-rzd6atqjts.gz
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/compressed/nux1b9n6fb-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/compressed/x18bx0hq06-{0}-dxx9fxp4il-dxx9fxp4il.gz
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/compressed/hvmudhd509-{0}-jd9uben2k1-jd9uben2k1.gz
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/compressed/eu13dq3ehg-{0}-khv3u5hwcm-khv3u5hwcm.gz
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/compressed/t2ynljs6vh-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/compressed/q93xprrq3x-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/compressed/pil426x9i8-{0}-c2oey78nd0-c2oey78nd0.gz
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/compressed/2j4amzfk80-{0}-tdbxkamptv-tdbxkamptv.gz
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/compressed/7rlh3tt65e-{0}-j5mq2jizvt-j5mq2jizvt.gz
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/compressed/lffwbgyflz-{0}-06098lyss8-06098lyss8.gz
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/compressed/7f4uqc005z-{0}-nvvlpmu67g-nvvlpmu67g.gz
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/compressed/k820hhne43-{0}-s35ty4nyc5-s35ty4nyc5.gz
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/compressed/77pmvbdx8h-{0}-pj5nd1wqec-pj5nd1wqec.gz
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/compressed/s53qv5b6b5-{0}-46ein0sx1k-46ein0sx1k.gz
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/compressed/e7k63uc3l5-{0}-v0zj4ognzu-v0zj4ognzu.gz
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/compressed/dvryv8819q-{0}-37tfw0ft22-37tfw0ft22.gz
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/compressed/bo3my78tsr-{0}-hrwsygsryq-hrwsygsryq.gz
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/compressed/jdoovlu3o3-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/compressed/nos95lq5qt-{0}-ft3s53vfgj-ft3s53vfgj.gz
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/compressed/hnpimh6iqw-{0}-6cfz1n2cew-6cfz1n2cew.gz
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/compressed/uty4zpj89m-{0}-6pdc2jztkx-6pdc2jztkx.gz
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/compressed/so623ab9he-{0}-493y06b0oq-493y06b0oq.gz
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/compressed/9mp0tfra0a-{0}-iovd86k7lj-iovd86k7lj.gz
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/compressed/xy6iet22s3-{0}-vr1egmr9el-vr1egmr9el.gz
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/compressed/q0tmnhll9c-{0}-kbrnm935zg-kbrnm935zg.gz
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/compressed/xeie6n259b-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/compressed/cgvcfpap4s-{0}-y7v9cxd14o-y7v9cxd14o.gz
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/compressed/evp33o4o6c-{0}-notf2xhcfb-notf2xhcfb.gz
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/compressed/bvynor4ztt-{0}-h1s4sie4z3-h1s4sie4z3.gz
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/compressed/vzcgx4qx1y-{0}-63fj8s7r0e-63fj8s7r0e.gz
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/compressed/c55w45aspu-{0}-0j3bgjxly4-0j3bgjxly4.gz
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/compressed/ir8ehbd97z-{0}-47otxtyo56-47otxtyo56.gz
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/compressed/6d6elvyyyb-{0}-4v8eqarkd7-4v8eqarkd7.gz
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/compressed/csf50qh5qk-{0}-l3n5xuwxn8-l3n5xuwxn8.gz
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/compressed/krijxkg8rz-{0}-ilo7uva0vt-ilo7uva0vt.gz
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/compressed/jkaz8hpdeb-{0}-qlccset4i1-qlccset4i1.gz
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/compressed/e8hesw11ps-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/compressed/jyubpf98yk-{0}-ag7o75518u-ag7o75518u.gz
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/compressed/i82qdn8zhg-{0}-xzw0cte36n-xzw0cte36n.gz
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/compressed/ksvzzp3ii6-{0}-0i3buxo5is-0i3buxo5is.gz
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/compressed/c52st5wj4c-{0}-o1o13a6vjx-o1o13a6vjx.gz
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/compressed/7ruj4iqr5m-{0}-ttgo8qnofa-ttgo8qnofa.gz
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/compressed/6w669x4116-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/compressed/9hwrf88sm2-{0}-muycvpuwrr-muycvpuwrr.gz
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/compressed/sijqyr9wr5-{0}-87fc7y1x7t-87fc7y1x7t.gz
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/compressed/h4x97euf65-{0}-jfsiqqwiad-jfsiqqwiad.gz
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/compressed/jw170wsfbv-{0}-e1mr5dgkog-e1mr5dgkog.gz
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/compressed/30benutsb5-{0}-e1mr5dgkog-e1mr5dgkog.gz
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/staticwebassets.build.json
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/staticwebassets.build.json.cache
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/staticwebassets.development.json
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/swae.build.ex.cache
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/Cirkus L.21268C41.Up2Date
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/Cirkus Luna.dll
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/refint/Cirkus Luna.dll
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/Cirkus Luna.pdb
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/Cirkus Luna.genruntimeconfig.cache
+/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/obj/Debug/net10.0/ref/Cirkus Luna.dll

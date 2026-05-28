@@ -11,53 +11,53 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Cirkus_Luna
 build_property.RootNamespace = Cirkus_Luna
-build_property.ProjectDir = /Users/sillajohanne/Desktop/Rider programming/Cirkus Luna/Cirkus Luna/
+build_property.ProjectDir = /Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/sillajohanne/Desktop/Rider programming/Cirkus Luna/Cirkus Luna
+build_property.MSBuildProjectDirectory = /Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 10.0
 build_property.EnableCodeStyleSeverity = 
 
-[/Users/sillajohanne/Desktop/Rider programming/Cirkus Luna/Cirkus Luna/Pages/artistDetails.cshtml]
+[/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/Pages/artistDetails.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvYXJ0aXN0RGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/sillajohanne/Desktop/Rider programming/Cirkus Luna/Cirkus Luna/Pages/Error.cshtml]
+[/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/sillajohanne/Desktop/Rider programming/Cirkus Luna/Cirkus Luna/Pages/Index.cshtml]
+[/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/sillajohanne/Desktop/Rider programming/Cirkus Luna/Cirkus Luna/Pages/Performances.cshtml]
+[/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/Pages/Performances.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUGVyZm9ybWFuY2VzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/sillajohanne/Desktop/Rider programming/Cirkus Luna/Cirkus Luna/Pages/Privacy.cshtml]
+[/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/sillajohanne/Desktop/Rider programming/Cirkus Luna/Cirkus Luna/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/sillajohanne/Desktop/Rider programming/Cirkus Luna/Cirkus Luna/Pages/TicketModel.cshtml]
+[/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/Pages/TicketModel.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVGlja2V0TW9kZWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/sillajohanne/Desktop/Rider programming/Cirkus Luna/Cirkus Luna/Pages/_ViewImports.cshtml]
+[/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/sillajohanne/Desktop/Rider programming/Cirkus Luna/Cirkus Luna/Pages/_ViewStart.cshtml]
+[/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/sillajohanne/Desktop/Rider programming/Cirkus Luna/Cirkus Luna/Pages/Shared/_Layout.cshtml]
+[/Users/ceciliepedersen/Desktop/datamatiker/programmering/CirkusLuna1/Cirkus Luna/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-wdm104bl0m
