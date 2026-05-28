@@ -43,8 +43,9 @@ public class PerformanceRepository : IPerformanceRepository
 
     }
 
+    // her har vi nogen metoder 
     public List<Performance> GetAll()
-    {
+    { 
         return _performanceList;
     }
 
@@ -59,7 +60,7 @@ public class PerformanceRepository : IPerformanceRepository
         throw new NotImplementedException();
     }
 
-    
+    // her er en løkke der returnerer performances
     public Performance GetById(int id)
     {
         foreach (Performance performance in _performanceList)
@@ -75,6 +76,7 @@ public class PerformanceRepository : IPerformanceRepository
         return null;
     }
 
+    // her er vores søgefunktion
     public List<Performance> Search(string search)
         {
             if (string.IsNullOrEmpty(search))

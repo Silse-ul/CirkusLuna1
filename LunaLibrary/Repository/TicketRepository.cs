@@ -5,6 +5,7 @@ namespace LunaLibrary.Repository;
 
 public class TicketRepository : ITicketRepository
 {
+  
   public List<Ticket> VIPTickets { get; set; }
   public int Price { get; set; }
   public int TicketType { get; set; }

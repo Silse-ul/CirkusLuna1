@@ -2,6 +2,7 @@ namespace Cirkus_Luna.Pages.model;
 
     public class Performance
     {
+        //properties
         public string Date { get; set; }
         public string City { get; set; }
         public string Address { get; set; }
@@ -10,8 +11,9 @@ namespace Cirkus_Luna.Pages.model;
         public int Id { get; set; }
         public List<Artist> Artists { get; set; }
 
-        private static int PerformanceCounter = 1; 
         
+        private static int PerformanceCounter = 1; 
+        // Contructor
         public Performance(string date, string city, string address, string startTime)
         {
             City = city;

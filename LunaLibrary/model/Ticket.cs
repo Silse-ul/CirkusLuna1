@@ -3,7 +3,7 @@ namespace Cirkus_Luna.Pages.Model;
 public enum TicketType {kids = 130 , adult = 200 , VIP = 300 }
 
     public class Ticket
-        {
+        {       // properties
             public string Name { get; set; }
             public  int Price  { get; set; }
             public TicketType Type { get; set; }
@@ -26,6 +26,7 @@ public enum TicketType {kids = 130 , adult = 200 , VIP = 300 }
                 CalculatePrice();
                 
             }
+            // metode
             public void CalculatePrice()
             {                           
                 Price = (int)Type;      
